@@ -98,7 +98,7 @@ freeCodeCamp.
 - La propiedad `padding` sin argumentos específicos (top, right, bottom, left) aplicará el valor dado a los cuatro lados de la página. el orden de los argumentos debe de ser el mismo descrito entre paréntesis, es decir en sentido contrario al movimiento de las agujas del reloj.
 
 - La propiedad `margin` sin argumentos específicos, funciona igual que la
-  propiedad `margin` , es decir con los argumentos sin especificar escritos en el
+  propiedad `padding` , es decir con los argumentos sin especificar escritos en el
 mismo sentido (contrario al movimiento de las agujas del reloj).
 
 - Con la propiedad `max-width` podemos ajustar el ancho máximo que tendrá el elemento con respecto a su componente padre.
